@@ -1,4 +1,4 @@
-<img width="400" align="right" alt="Github"
+<img width="300" align="right" alt="Github"
 src="https://i.ibb.co/168PV2s/werwer.jpg" 
 /> 
 
