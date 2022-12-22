@@ -10,7 +10,7 @@ src="https://github.com/RomanBatrakov/RomanBatrakov/blob/main/images/mainPicture
 - 👯 I’m looking for something new or creating some project<br>
 - 📖 I’m currently learning more about Spring Boot and Hibernate<br>
 - 🎯 2023 Goals: Take part in the development of cool products<br>
-- ⚡ Fun fact: I like to create models and implement them on a 3D printer<br>
+- ⚡ Fun fact: I like to embody my ideas on a 3d printer<br>
 - 📫 How to reach me:<br><br>
 </samp>
   
