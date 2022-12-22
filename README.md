@@ -1,5 +1,5 @@
 <img width="300" align="right" alt="Github"
-src="https://i.ibb.co/168PV2s/werwer.jpg" 
+src="https://github.com/RomanBatrakov/RomanBatrakov/main/images/main/mainPicture.jpg" 
 /> 
 
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Stylish&size=35&duration=8500&pause=2000&color=000000&width=435&height=70&lines=Hi%2C+There+%F0%9F%91%8B+I'am+Roman.)](https://git.io/typing-svg)
