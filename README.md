@@ -1,9 +1,9 @@
-### Hi there 👋
+<img width="400" align="right" alt="Github"
+src="https://i.ibb.co/168PV2s/werwer.jpg" 
+/> 
 
-<!--
-**RomanBatrakov/RomanBatrakov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Stylish&size=35&duration=8500&pause=2000&color=000000&width=435&height=70&lines=Hi%2C+There+%F0%9F%91%8B+I'am+Roman.)](https://git.io/typing-svg)
+## A little more about me...
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
