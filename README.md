@@ -9,7 +9,7 @@ src="https://github.com/RomanBatrakov/RomanBatrakov/blob/main/images/mainPicture
 - 🌱 I’m a Java developer<br>
 - 👯 I’m looking for something new or creating some project<br>
 - 📖 I’m currently learning more about Spring Boot and Hibernate<br>
-- 🎯 2023 Goals: Take part in the development of cool products<br>
+- 🎯 2024 Goals: Take part in the development of cool products<br>
 - ⚡ Fun fact: I like to embody my ideas on a 3d printer<br>
 - 📫 How to reach me:<br><br>
 </samp>
